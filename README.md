@@ -41,6 +41,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | FUnIE-GAN            | 2020 | RA-L          | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
 | UWCNN                | 2020 | PR            | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
 | PRWNet               | 2021 | ICCV Workshop | [Pytorch](https://github.com/huofushuo/PRWNet)               |
+| CWR                  | 2021 | IGARSS        | [Pytorch](https://github.com/JunlinHan/CWR)                  |
 | Shallow-UWNet        | 2021 | AAAI          | [Pytorch](https://github.com/mkartik/Shallow-UWnet)          |
 | UColor               | 2021 | TIP           | [Tensorflow](https://github.com/Li-Chongyi/Ucolor)\|[Pytorch](https://github.com/59Kkk/pytorch_Ucolor_lcy) |
 | UIEC^2-Net           | 2021 | SPIC          | [Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)    |
@@ -52,4 +53,32 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | PUGAN                | 2023 | TIP           | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR             | 2023 | CVPR          | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
 | SyreaNet             | 2023 | ICRA          | [Pytorch](https://github.com/RockWenJJ/SyreaNet)             |
+
+## Metric
+
+### Full-Reference
+
+[torchmetrics](https://github.com/Lightning-AI/torchmetrics) for cuda calculation
+
+**PSNR**
+
+**SSIM**
+
+**MAE**
+
+**MSE**
+
+**RMSE**
+
+### Non-Reference
+
+**UIQM**
+
+**UCIQE**
+
+**NIQE**
+
+**PS**
+
+**MUSIQ**
 

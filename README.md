@@ -43,7 +43,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | PRWNet               | 2021 | ICCV Workshop | [Pytorch](https://github.com/huofushuo/PRWNet)               |
 | CWR                  | 2021 | IGARSS        | [Pytorch](https://github.com/JunlinHan/CWR)                  |
 | Shallow-UWNet        | 2021 | AAAI          | [Pytorch](https://github.com/mkartik/Shallow-UWnet)          |
-| UColor               | 2021 | TIP           | [Tensorflow](https://github.com/Li-Chongyi/Ucolor)\|[Pytorch](https://github.com/59Kkk/pytorch_Ucolor_lcy) |
+| UColor               | 2021 | TIP           | [Tensorflow](https://github.com/Li-Chongyi/Ucolor)\|[Pytorch](https://github.com/CV-Reimplementation/Ucolor-Reimplementation) |
 | UIEC^2-Net           | 2021 | SPIC          | [Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)    |
 | STSC                 | 2022 | ICRA          | [Pytorch](https://github.com/wdhudiekou/STSC)                |
 | TACL                 | 2022 | TIP           | [Pytorch](https://github.com/Jzy2017/TACL)                   |

@@ -19,12 +19,12 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Enhancing underwater images and videos by fusion             | 2012 | CVPR          | [MATLAB](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Transmission Estimation in Underwater Single Images          | 2013 | ICCV Workshop | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Underwater image enhancement by dehazing with minimum information loss and histogram distribution prior | 2016 | TIP           | [MATLAB](https://github.com/Li-Chongyi/TIP2016-code)         |
-| GBdehazingRCorrection: Single underwater image restoration by blue-green channels dehazing and red channel correction | 2016 | ICASSP        | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
-| IBLA: Underwater Image Restoration Based on Image Blurriness and Light Absorption | 2017 | TIP           | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Single underwater image restoration by blue-green channels dehazing and red channel correction | 2016 | ICASSP        | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Underwater Image Restoration Based on Image Blurriness and Light Absorption | 2017 | TIP           | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Diving into Haze-Lines: Color Restoration of Underwater Images | 2017 | BMVC          | [MATLAB](https://github.com/danaberman/underwater-hl)        |
 | Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition | 2018 | MMM           | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Sea-Thru: A Method for Removing Water From Underwater Images | 2019 | CVPR          | [Python](https://github.com/hainh/sea-thru)                  |
-| L2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop | [MATLAB](https://github.com/tunai/l2uwe)                     |
+| L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop | [MATLAB](https://github.com/tunai/l2uwe)                     |
 | Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement | 2022 | TIP           | [MATLAB](https://github.com/Li-Chongyi/MMLE_code)            |
 | Underwater Image Enhancement With Hyper-Laplacian Reflectance Priors | 2022 | TIP           | [MATLAB](https://github.com/zhuangpeixian/HLRP)              |
 | Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior | 2023 | TCSVT         | [MATLAB](https://github.com/Hou-Guojia/ICSP)                 |

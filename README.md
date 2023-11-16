@@ -29,6 +29,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Enhancement of Underwater Images With Statistical Model of Background Light and Optimization of Transmission Map | 2019 | IEEE T BROADCAST | [Python](https://github.com/wangyanckxx/Enhancement-of-Underwater-Images-with-Statistical-Model-of-BL-and-Optimization-of-TM) |
 | Real-time Model-based Image Color Correction for Underwater Robots | 2019 | IROS             | [C++](https://github.com/dartmouthrobotics/underwater_color_enhance) |
 | Sea-Thru: A Method for Removing Water From Underwater Images | 2019 | CVPR             | [Python](https://github.com/hainh/sea-thru)                  |
+| Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations | 2019 | ICCV             | [MATLAB](https://github.com/jeringeo/CompressiveFlows)       |
 | L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop    | [MATLAB](https://github.com/tunai/l2uwe)                     |
 | Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement | 2022 | TIP              | [MATLAB](https://github.com/Li-Chongyi/MMLE_code)            |
 | Underwater Image Enhancement With Hyper-Laplacian Reflectance Priors | 2022 | TIP              | [MATLAB](https://github.com/zhuangpeixian/HLRP)              |
@@ -57,11 +58,13 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | TACL                 | 2022 | TIP            | [Pytorch](https://github.com/Jzy2017/TACL)                   |
 | TOPAL                | 2022 | TCSVT          | [Pytorch](https://github.com/Jzy2017/TOPAL)                  |
 | SGUIE-Net            | 2022 | TIP            | [Pytorch](https://github.com/trentqq/SGUIE-Net_Simple)       |
+| PUIE-Net             | 2022 | ECCV           | [Pytorch](https://github.com/zhenqifu/puie-net)              |
 | U-Shape Transformer  | 2023 | TIP            | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
 | PUGAN                | 2023 | TIP            | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR             | 2023 | CVPR           | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
 | SyreaNet             | 2023 | ICRA           | [Pytorch](https://github.com/RockWenJJ/SyreaNet)             |
 | Five A+ Network      | 2023 | BMVC           | [Pytorch](https://github.com/Owen718/FiveAPlus-Network)      |
+| Deep WaveNet         | 2023 | TOMM           | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
 
 ## Metric
 

@@ -64,6 +64,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Semi-UIR             | 2023 | CVPR           | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
 | SyreaNet             | 2023 | ICRA           | [Pytorch](https://github.com/RockWenJJ/SyreaNet)             |
 | Five A+ Network      | 2023 | BMVC           | [Pytorch](https://github.com/Owen718/FiveAPlus-Network)      |
+| UIALN                | 2023 | TCSVT          | [Pytorch](https://github.com/kevendai/UIALN-Reproduction-Experiment) |
 | Deep WaveNet         | 2023 | TOMM           | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
 
 ## Metric

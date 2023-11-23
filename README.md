@@ -52,6 +52,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | SESR                 | 2020 | RSS            | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
 | UWCNN                | 2020 | PR             | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
 | HybridDetectionGAN   | 2020 | TCSVT          | [Tensorflow](https://github.com/cjh666-sym/HybridDetectionGAN) |
+| cGAN                 | 2020 | SPIC           | [Tensorflow](https://github.com/JOU-UIP/Underwater-image-enhancement-based-on-conditional-generative-adversarial-network) |
 | PRWNet               | 2021 | ICCV Workshop  | [Pytorch](https://github.com/huofushuo/PRWNet)               |
 | CWR                  | 2021 | IGARSS         | [Pytorch](https://github.com/JunlinHan/CWR)                  |
 | Shallow-UWNet        | 2021 | AAAI           | [Pytorch](https://github.com/mkartik/Shallow-UWnet)          |
@@ -66,6 +67,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | UIE-WD               | 2022 | ICASSP         | [Pytorch](https://github.com/ZZiyin/UIE-WD_Code)             |
 | UHD-SFNet            | 2022 | ACCV           | [Pytorch](https://github.com/zzr-idam/UHD-Underwater-Image-Enhancement) |
 | ADMNNet              | 2022 | KBS            | [Pytorch](https://github.com/xhyan006/ADMNNet)               |
+| LANet                | 2022 | RA-L           | [Pytorch](https://github.com/LiuShiBen/LANet)                |
 | U-Shape Transformer  | 2023 | TIP            | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
 | PUGAN                | 2023 | TIP            | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR             | 2023 | CVPR           | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
@@ -74,6 +76,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | UIALN                | 2023 | TCSVT          | [Pytorch](https://github.com/kevendai/UIALN-Reproduction-Experiment) |
 | Deep WaveNet         | 2023 | TOMM           | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
 | DM                   | 2023 | MM             | [Pytorch](https://github.com/piggy2009/DM_underwater)        |
+| P2CNet               | 2023 | TCSVT          | [Pytorch](https://github.com/Ray2OUC/P2CNet)                 |
 
 ## Metric
 

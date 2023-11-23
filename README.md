@@ -18,6 +18,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Title                                                        | Year | Publication      | Code                                                         |
 | ------------------------------------------------------------ | ---- | ---------------- | ------------------------------------------------------------ |
 | Enhancing the low quality images using Unsupervised Colour Correction Method | 2010 | SMC              | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Underwater Image Enhancement by Wavelength Compensation and Dehazing | 2011 | TIP              | [MATLAB](https://github.com/mohitkumarahuja/Underwater-Image-Enhancement-by-Wavelength-Compensation-and-Dehazing) |
 | Enhancing underwater images and videos by fusion             | 2012 | CVPR             | [MATLAB](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Transmission Estimation in Underwater Single Images          | 2013 | ICCV Workshop    | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Underwater image enhancement by dehazing with minimum information loss and histogram distribution prior | 2016 | TIP              | [MATLAB](https://github.com/Li-Chongyi/TIP2016-code)         |
@@ -30,6 +31,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Real-time Model-based Image Color Correction for Underwater Robots | 2019 | IROS             | [C++](https://github.com/dartmouthrobotics/underwater_color_enhance) |
 | Sea-Thru: A Method for Removing Water From Underwater Images | 2019 | CVPR             | [Python](https://github.com/hainh/sea-thru)                  |
 | Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations | 2019 | ICCV             | [MATLAB](https://github.com/jeringeo/CompressiveFlows)       |
+| Local Color Mapping combined with Color Transfer for Underwater Image Enhancement | 2019 | WACV             | [MATLAB](https://github.com/rprotasiuk/underwater_enhancement) |
 | L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop    | [MATLAB](https://github.com/tunai/l2uwe)                     |
 | Bayesian retinex underwater image enhancement                | 2021 | EAAI             | [MATLAB](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) |
 | Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement | 2022 | TIP              | [MATLAB](https://github.com/Li-Chongyi/MMLE_code)            |
@@ -49,6 +51,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | FUnIE-GAN            | 2020 | RA-L           | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
 | SESR                 | 2020 | RSS            | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
 | UWCNN                | 2020 | PR             | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
+| HybridDetectionGAN   | 2020 | TCSVT          | [Tensorflow](https://github.com/cjh666-sym/HybridDetectionGAN) |
 | PRWNet               | 2021 | ICCV Workshop  | [Pytorch](https://github.com/huofushuo/PRWNet)               |
 | CWR                  | 2021 | IGARSS         | [Pytorch](https://github.com/JunlinHan/CWR)                  |
 | Shallow-UWNet        | 2021 | AAAI           | [Pytorch](https://github.com/mkartik/Shallow-UWnet)          |
@@ -60,6 +63,9 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | TOPAL                | 2022 | TCSVT          | [Pytorch](https://github.com/Jzy2017/TOPAL)                  |
 | SGUIE-Net            | 2022 | TIP            | [Pytorch](https://github.com/trentqq/SGUIE-Net_Simple)       |
 | PUIE-Net             | 2022 | ECCV           | [Pytorch](https://github.com/zhenqifu/puie-net)              |
+| UIE-WD               | 2022 | ICASSP         | [Pytorch](https://github.com/ZZiyin/UIE-WD_Code)             |
+| UHD-SFNet            | 2022 | ACCV           | [Pytorch](https://github.com/zzr-idam/UHD-Underwater-Image-Enhancement) |
+| ADMNNet              | 2022 | KBS            | [Pytorch](https://github.com/xhyan006/ADMNNet)               |
 | U-Shape Transformer  | 2023 | TIP            | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
 | PUGAN                | 2023 | TIP            | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR             | 2023 | CVPR           | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
@@ -67,6 +73,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Five A+ Network      | 2023 | BMVC           | [Pytorch](https://github.com/Owen718/FiveAPlus-Network)      |
 | UIALN                | 2023 | TCSVT          | [Pytorch](https://github.com/kevendai/UIALN-Reproduction-Experiment) |
 | Deep WaveNet         | 2023 | TOMM           | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
+| DM                   | 2023 | MM             | [Pytorch](https://github.com/piggy2009/DM_underwater)        |
 
 ## Metric
 

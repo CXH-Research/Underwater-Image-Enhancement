@@ -79,6 +79,8 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Deep WaveNet         | 2023 | TOMM           | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
 | DM                   | 2023 | MM             | [Pytorch](https://github.com/piggy2009/DM_underwater)        |
 | P2CNet               | 2023 | TCSVT          | [Pytorch](https://github.com/Ray2OUC/P2CNet)                 |
+| TCTL-Net             | 2023 | TCSVT          | [Pytorch](https://github.com/trentqq/TCTL-Net)               |
+| CLUIE-Net            | 2023 | TCSVT          | [Pytorch](https://github.com/justwj/CLUIE-Net)               |
 
 ## Metric
 

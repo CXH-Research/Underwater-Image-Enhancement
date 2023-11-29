@@ -40,6 +40,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Underwater Image Enhancement With Hyper-Laplacian Reflectance Priors | 2022 | TIP              | [MATLAB](https://github.com/zhuangpeixian/HLRP)              |
 | Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior | 2023 | TCSVT            | [MATLAB](https://github.com/Hou-Guojia/ICSP)                 |
 | Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion | 2023 | TCSVT            | [MATLAB](https://github.com/Li-Chongyi/WWPF_code)            |
+| Underwater camera: Improving visual perception via adaptive dark pixel prior and color correction | 2023 | IJCV             | [Python](https://github.com/zhoujingchun03/ADPCC_Code)       |
 
 ### Learning
 
@@ -81,6 +82,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | P2CNet               | 2023 | TCSVT          | [Pytorch](https://github.com/Ray2OUC/P2CNet)                 |
 | TCTL-Net             | 2023 | TCSVT          | [Pytorch](https://github.com/trentqq/TCTL-Net)               |
 | CLUIE-Net            | 2023 | TCSVT          | [Pytorch](https://github.com/justwj/CLUIE-Net)               |
+| HAAM-GAN             | 2023 | EAAI           | [Pytorch](https://github.com/zhoujingchun03/HAAM-GAN)        |
 
 ## Metric
 

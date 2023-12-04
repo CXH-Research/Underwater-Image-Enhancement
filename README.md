@@ -41,6 +41,8 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior | 2023 | TCSVT            | [MATLAB](https://github.com/Hou-Guojia/ICSP)                 |
 | Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion | 2023 | TCSVT            | [MATLAB](https://github.com/Li-Chongyi/WWPF_code)            |
 | Underwater camera: Improving visual perception via adaptive dark pixel prior and color correction | 2023 | IJCV             | [Python](https://github.com/zhoujingchun03/ADPCC_Code)       |
+| Rank-One Prior: Real-time Scene Recovery                     | 2023 | TPAMI            | [MATLAB](https://github.com/junliumath/ROP)                  |
+| HFM: A hybrid fusion method for underwater image enhancement | 2024 | EAAI             | [MATLAB](https://github.com/An-Shunmin/HFM)                  |
 
 ### Learning
 

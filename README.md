@@ -83,6 +83,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | LANet                | 2022 | RA-L           | [Pytorch](https://github.com/LiuShiBen/LANet)                |
 | MBANet               | 2022 | PR             | [Pytorch](https://github.com/lizexuan1/MBANet)               |
 | USUIR                | 2022 | AAAI           | [Pytorch](https://github.com/zhenqifu/USUIR)                 |
+| UIR-Net              | 2022 | Remote Sensing | [Pytorch](https://github.com/zhangbaijin/UIR-Net)            |
 | U-Shape Transformer  | 2023 | TIP            | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
 | PUGAN                | 2023 | TIP            | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR             | 2023 | CVPR           | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |

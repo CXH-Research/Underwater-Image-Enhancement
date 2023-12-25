@@ -27,7 +27,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Single underwater image restoration by blue-green channels dehazing and red channel correction | 2016 | ICASSP           | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Underwater Image Restoration Based on Image Blurriness and Light Absorption | 2017 | TIP              | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
 | Diving into Haze-Lines: Color Restoration of Underwater Images | 2017 | BMVC             | [MATLAB](https://github.com/danaberman/underwater-hl)        |
-| Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition | 2018 | MMM              | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition | 2018 | MMM              | [Python](https://github.com/Amruth-sagar/Shallow-water-Image-Enhancement) |
 | Color Balance and Fusion for Underwater Image Enhancement    | 2018 | TIP              | [MATLAB](https://github.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-.) |
 | Enhancement of Underwater Images With Statistical Model of Background Light and Optimization of Transmission Map | 2019 | IEEE T BROADCAST | [Python](https://github.com/wangyanckxx/Enhancement-of-Underwater-Images-with-Statistical-Model-of-BL-and-Optimization-of-TM) |
 | Real-time Model-based Image Color Correction for Underwater Robots | 2019 | IROS             | [C++](https://github.com/dartmouthrobotics/underwater_color_enhance) |

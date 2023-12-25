@@ -108,6 +108,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Boths                | 2023 | GRSL                | [Pytorch](https://github.com/perseveranceLX/BOths)           |
 | TUDA                 | 2023 | TIP                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |
 | AUIE-GIC             | 2023 | SPL                 | [Pytorch](https://github.com/perseveranceLX/AUIE-GIC)        |
+| Spectroformer        | 2023 | WACV                | [Pytorch](https://github.com/Mdraqibkhan/Spectroformer)      |
 
 ## Metric
 

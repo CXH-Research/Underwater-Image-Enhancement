@@ -3,6 +3,8 @@ Summary of Publicly Available Underwater Image Enhancement Method
 
 **Raise Issue or PR to add more**
 
+Recommend [Awesome_UIE](https://github.com/fansuregrin/Awesome-UIE) for more UIE methods and papers.
+
 ## Dataset
 
 [Github Summary](https://github.com/xinzhichao/underwater_datasets)

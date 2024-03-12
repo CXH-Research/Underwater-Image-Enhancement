@@ -40,7 +40,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop    | [MATLAB](https://github.com/tunai/l2uwe)                     |
 | A novel dark channel prior guided variational framework for underwater image restoration | 2020 | JVCIR            | [MATLAB](https://github.com/Hou-Guojia/UTV)                  |
 | Bayesian retinex underwater image enhancement                | 2021 | EAAI             | [MATLAB](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) |
-| TEBCF: Real-World Underwater Image Texture Enhancement Model Based on Blurriness and Color Fusion | 2021 | TGRS             | [MATLAB](https://github.com/bilityniu/TEBCF_tgrs)            |
+| TEBCF: Real-World Underwater Image Texture Enhancement Model Based on Blurriness and Color Fusion | 2021 | TGRS             | [MATLAB](https://github.com/bilityniu/TEBCF_tgrs)\|[Python](https://github.com/evan-person/TEBCF_python) |
 | An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology | 2021 | TGRS             | [MATLAB](https://github.com/bilityniu/cbm_tgrs)              |
 | Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement | 2022 | TIP              | [MATLAB](https://github.com/Li-Chongyi/MMLE_code)            |
 | Underwater Image Enhancement With Hyper-Laplacian Reflectance Priors | 2022 | TIP              | [MATLAB](https://github.com/zhuangpeixian/HLRP)              |
@@ -111,6 +111,8 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | TUDA                 | 2023 | TIP                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |
 | AUIE-GIC             | 2023 | SPL                 | [Pytorch](https://github.com/perseveranceLX/AUIE-GIC)        |
 | Spectroformer        | 2023 | WACV                | [Pytorch](https://github.com/Mdraqibkhan/Spectroformer)      |
+| RAUNE-Net            | 2023 | IFTC                | [Pytorch](https://github.com/fansuregrin/RAUNE-Net)          |
+| ACU-Net              | 2024 | SIVP                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |
 
 ## Metric
 
@@ -129,6 +131,8 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 **RMSE**
 
 ### Non-Reference
+
+[Metrics](https://github.com/rahim-khan-iitg/underwater_image_enhancement)
 
 **UIQM**
 

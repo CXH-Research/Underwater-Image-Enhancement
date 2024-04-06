@@ -109,7 +109,6 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | GUPDM                | 2023 | MM                  | [Pytorch](https://github.com/shiningZZ/GUPDM)                |
 | Boths                | 2023 | GRSL                | [Pytorch](https://github.com/perseveranceLX/BOths)           |
 | TUDA                 | 2023 | TIP                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |
-| AUIE-GIC             | 2023 | SPL                 | [Pytorch](https://github.com/perseveranceLX/AUIE-GIC)        |
 | Spectroformer        | 2023 | WACV                | [Pytorch](https://github.com/Mdraqibkhan/Spectroformer)      |
 | RAUNE-Net            | 2023 | IFTC                | [Pytorch](https://github.com/fansuregrin/RAUNE-Net)          |
 | ACU-Net              | 2024 | SIVP                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |

@@ -55,6 +55,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement | 2023 | SPL              | [MATLAB](https://github.com/Li-Chongyi/PCDE)                 |
 | Enhancing Underwater Image via Adaptive Color and Contrast Enhancement, and Denoising | 2023 | EAAI             | [MATLAB](https://github.com/Hou-Guojia/ACCE-D)               |
 | HFM: A hybrid fusion method for underwater image enhancement | 2024 | EAAI             | [MATLAB](https://github.com/An-Shunmin/HFM)                  |
+| Underwater Color Disparities: Cues for Enhancing Underwater Images Toward Natural Color Consistencies | 2024 | TCSVT            | [Python](https://gitee.com/wanghaoupc/Underwater_Color_Disparities) |
 
 ### Learning
 
@@ -88,6 +89,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | AutoEnhancer         | 2022 | ACCV                | [Pytorch](https://github.com/piggy2009/autoEnhancer)         |
 | ADMNNet              | 2022 | KBS                 | [Pytorch](https://github.com/xhyan006/ADMNNet)               |
 | LANet                | 2022 | RA-L                | [Pytorch](https://github.com/LiuShiBen/LANet)                |
+| SIBM                 | 2022 | MM                  | [Pytorch](https://github.com/IntegralCoCo/SIBM)              |
 | MBANet               | 2022 | PR                  | [Pytorch](https://github.com/lizexuan1/MBANet)               |
 | USUIR                | 2022 | AAAI                | [Pytorch](https://github.com/zhenqifu/USUIR)                 |
 | UIR-Net              | 2022 | Remote Sensing      | [Pytorch](https://github.com/zhangbaijin/UIR-Net)            |
@@ -109,12 +111,22 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | GUPDM                | 2023 | MM                  | [Pytorch](https://github.com/shiningZZ/GUPDM)                |
 | Boths                | 2023 | GRSL                | [Pytorch](https://github.com/perseveranceLX/BOths)           |
 | TUDA                 | 2023 | TIP                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |
-| AUIE-GIC             | 2023 | SPL                 | [Pytorch](https://github.com/perseveranceLX/AUIE-GIC)        |
 | Spectroformer        | 2023 | WACV                | [Pytorch](https://github.com/Mdraqibkhan/Spectroformer)      |
 | RAUNE-Net            | 2023 | IFTC                | [Pytorch](https://github.com/fansuregrin/RAUNE-Net)          |
+| Joint_ID             | 2023 | IEEE Sensors        | [Pytorch](https://github.com/sparolab/Joint_ID)              |
+| UIEPTA               | 2023 | IJCNN               | [Pytorch](https://github.com/Mdraqibkhan/UIEPTA)             |
 | ACU-Net              | 2024 | SIVP                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |
 | UWFormer             | 2024 | IJCNN               | [Pytorch](https://github.com/leiyingtie/UWFormer)            |
 | DICAM                | 2024 | Neurocomputing      | [Pytorch](https://github.com/hfarhaditolie/DICAM)            |
+| INSPIRATION          | 2024 | EAAI                | [Pytorch](https://gitee.com/wanghaoupc/uie_inspiration)      |
+| AoSRNet              | 2024 | KBS                 | [Pytorch](https://github.com/LouisYuxuLu/AoSRNet)            |
+| IACC                 | 2024 | TGRS                | [Pytorch](https://github.com/zhoujingchun03/IACC)            |
+| PDS                  | 2024 | TGRS                | https://github.com/polwork/PDS                               |
+| TFUIE                | 2024 | TGRS                | [Pytorch](https://github.com/gemyumeng/TFUIE)                |
+| DiffWater            | 2024 | JSTAR               | [Pytorch](https://github.com/Guan-MS/DiffWater)              |
+| SFGNet               | 2024 | ICASSP              | [Pytorch](https://github.com/zhihefang/SFGNet)               |
+| WsUIDNet             | 2024 | TGRS                | [Pytorch](https://github.com/Wangxy97/WsUID-Net_code)        |
+| CCMSRNet             | 2024 | TGRS                | [Pytorch](https://github.com/INDTLab/CCMSRNet)               |
 
 ## Metric
 

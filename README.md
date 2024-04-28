@@ -115,6 +115,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | RAUNE-Net            | 2023 | IFTC                | [Pytorch](https://github.com/fansuregrin/RAUNE-Net)          |
 | Joint_ID             | 2023 | IEEE Sensors        | [Pytorch](https://github.com/sparolab/Joint_ID)              |
 | UIEPTA               | 2023 | IJCNN               | [Pytorch](https://github.com/Mdraqibkhan/UIEPTA)             |
+| NU2Net               | 2023 | AAAI                | [Pytorch](https://github.com/RQ-Wu/UnderwaterRanker)         |
 | ACU-Net              | 2024 | SIVP                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |
 | UWFormer             | 2024 | IJCNN               | [Pytorch](https://github.com/leiyingtie/UWFormer)            |
 | DICAM                | 2024 | Neurocomputing      | [Pytorch](https://github.com/hfarhaditolie/DICAM)            |

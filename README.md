@@ -59,75 +59,76 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 
 ### Learning
 
-| Name                 | Year | Publication         | Code                                                         |
-| -------------------- | ---- | ------------------- | ------------------------------------------------------------ |
-| WaterGAN             | 2017 | RA-L                | [Tensorflow](https://github.com/kskin/WaterGAN)              |
-| UGAN                 | 2018 | ICRA                | [Tensorflow](https://github.com/cameronfabbri/Underwater-Color-Correction)\|[Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
-| WAug Encoder-Decoder | 2019 | CVPR Workshop       | [Pytorch](https://github.com/AdarshMJ/Underwater-Image-Enhancement-via-Style-Transfer) |
-| UIE-DAL              | 2019 | CVPR Workshops      | [Pytorch](https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning) |
-| WaterNet             | 2019 | TIP                 | [Tensorflow](https://github.com/Li-Chongyi/Water-Net_Code)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
-| GAN-RS               | 2019 | IEEE T IND ELECTRON | [Pytorch](https://github.com/SeanChenxy/GAN_RS)              |
-| FUnIE-GAN            | 2020 | RA-L                | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
-| SESR                 | 2020 | RSS                 | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
-| UWCNN                | 2020 | PR                  | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
-| HybridDetectionGAN   | 2020 | TCSVT               | [Tensorflow](https://github.com/cjh666-sym/HybridDetectionGAN) |
-| cGAN                 | 2020 | SPIC                | [Tensorflow](https://github.com/JOU-UIP/Underwater-image-enhancement-based-on-conditional-generative-adversarial-network) |
-| PRWNet               | 2021 | ICCV Workshop       | [Pytorch](https://github.com/huofushuo/PRWNet)               |
-| CWR                  | 2021 | IGARSS              | [Pytorch](https://github.com/JunlinHan/CWR)                  |
-| Shallow-UWNet        | 2021 | AAAI                | [Pytorch](https://github.com/mkartik/Shallow-UWnet)          |
-| UColor               | 2021 | TIP                 | [Tensorflow](https://github.com/Li-Chongyi/Ucolor)\|[Pytorch](https://github.com/CV-Reimplementation/Ucolor-Reimplementation) |
-| UIEC^2-Net           | 2021 | SPIC                | [Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)    |
-| STSC                 | 2022 | ICRA                | [Pytorch](https://github.com/wdhudiekou/STSC)                |
-| URSCT-SESR           | 2022 | TGRS                | [Pytorch](https://github.com/TingdiRen/URSCT-SESR)           |
-| TACL                 | 2022 | TIP                 | [Pytorch](https://github.com/Jzy2017/TACL)                   |
-| TOPAL                | 2022 | TCSVT               | [Pytorch](https://github.com/Jzy2017/TOPAL)                  |
-| SGUIE-Net            | 2022 | TIP                 | [Pytorch](https://github.com/trentqq/SGUIE-Net_Simple)       |
-| PUIE-Net             | 2022 | ECCV                | [Pytorch](https://github.com/zhenqifu/puie-net)              |
-| UIE-WD               | 2022 | ICASSP              | [Pytorch](https://github.com/ZZiyin/UIE-WD_Code)             |
-| SCNet                | 2022 | ICASSP              | [Pytorch](https://github.com/zhenqifu/SCNet)                 |
-| UHD-SFNet            | 2022 | ACCV                | [Pytorch](https://github.com/zzr-idam/UHD-Underwater-Image-Enhancement) |
-| AutoEnhancer         | 2022 | ACCV                | [Pytorch](https://github.com/piggy2009/autoEnhancer)         |
-| ADMNNet              | 2022 | KBS                 | [Pytorch](https://github.com/xhyan006/ADMNNet)               |
-| LANet                | 2022 | RA-L                | [Pytorch](https://github.com/LiuShiBen/LANet)                |
-| SIBM                 | 2022 | MM                  | [Pytorch](https://github.com/IntegralCoCo/SIBM)              |
-| MBANet               | 2022 | PR                  | [Pytorch](https://github.com/lizexuan1/MBANet)               |
-| USUIR                | 2022 | AAAI                | [Pytorch](https://github.com/zhenqifu/USUIR)                 |
-| UIR-Net              | 2022 | Remote Sensing      | [Pytorch](https://github.com/zhangbaijin/UIR-Net)            |
-| UDAformer            | 2022 | C & G               | [Pytorch](https://github.com/ShenZhen0502/UDAformer)         |
-| U-Shape Transformer  | 2023 | TIP                 | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
-| PUGAN                | 2023 | TIP                 | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
-| Semi-UIR             | 2023 | CVPR                | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
-| SyreaNet             | 2023 | ICRA                | [Pytorch](https://github.com/RockWenJJ/SyreaNet)             |
-| Five A+ Network      | 2023 | BMVC                | [Pytorch](https://github.com/Owen718/FiveAPlus-Network)      |
-| UIALN                | 2023 | TCSVT               | [Pytorch](https://github.com/kevendai/UIALN-Reproduction-Experiment) |
-| Deep WaveNet         | 2023 | TOMM                | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
-| DM                   | 2023 | MM                  | [Pytorch](https://github.com/piggy2009/DM_underwater)        |
-| P2CNet               | 2023 | TCSVT               | [Pytorch](https://github.com/Ray2OUC/P2CNet)                 |
-| TCTL-Net             | 2023 | TCSVT               | [Pytorch](https://github.com/trentqq/TCTL-Net)               |
-| CLUIE-Net            | 2023 | TCSVT               | [Pytorch](https://github.com/justwj/CLUIE-Net)               |
-| HAAM-GAN             | 2023 | EAAI                | [Pytorch](https://github.com/zhoujingchun03/HAAM-GAN)        |
-| ASNet+ANNet          | 2023 | EAAI                | [Pytorch](https://github.com/cwoop92/Underwater-image-enhancement-using-adaptive-standardization-and-normalization-networks) |
-| LiteEnhanceNet       | 2023 | EAAI                | [Pytorch](https://github.com/zhangsong1213/LiteEnhanceNet)   |
-| GUPDM                | 2023 | MM                  | [Pytorch](https://github.com/shiningZZ/GUPDM)                |
-| Boths                | 2023 | GRSL                | [Pytorch](https://github.com/perseveranceLX/BOths)           |
-| TUDA                 | 2023 | TIP                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |
-| Spectroformer        | 2023 | WACV                | [Pytorch](https://github.com/Mdraqibkhan/Spectroformer)      |
-| RAUNE-Net            | 2023 | IFTC                | [Pytorch](https://github.com/fansuregrin/RAUNE-Net)          |
-| Joint_ID             | 2023 | IEEE Sensors        | [Pytorch](https://github.com/sparolab/Joint_ID)              |
-| UIEPTA               | 2023 | IJCNN               | [Pytorch](https://github.com/Mdraqibkhan/UIEPTA)             |
-| NU2Net               | 2023 | AAAI                | [Pytorch](https://github.com/RQ-Wu/UnderwaterRanker)         |
-| ACU-Net              | 2024 | SIVP                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |
-| UWFormer             | 2024 | IJCNN               | [Pytorch](https://github.com/leiyingtie/UWFormer)            |
-| DICAM                | 2024 | Neurocomputing      | [Pytorch](https://github.com/hfarhaditolie/DICAM)            |
-| INSPIRATION          | 2024 | EAAI                | [Pytorch](https://gitee.com/wanghaoupc/uie_inspiration)      |
-| AoSRNet              | 2024 | KBS                 | [Pytorch](https://github.com/LouisYuxuLu/AoSRNet)            |
-| IACC                 | 2024 | TGRS                | [Pytorch](https://github.com/zhoujingchun03/IACC)            |
-| PDS                  | 2024 | TGRS                | https://github.com/polwork/PDS                               |
-| TFUIE                | 2024 | TGRS                | [Pytorch](https://github.com/gemyumeng/TFUIE)                |
-| DiffWater            | 2024 | JSTAR               | [Pytorch](https://github.com/Guan-MS/DiffWater)              |
-| SFGNet               | 2024 | ICASSP              | [Pytorch](https://github.com/zhihefang/SFGNet)               |
-| WsUIDNet             | 2024 | TGRS                | [Pytorch](https://github.com/Wangxy97/WsUID-Net_code)        |
-| CCMSRNet             | 2024 | TGRS                | [Pytorch](https://github.com/INDTLab/CCMSRNet)               |
+| Name                           | Year | Publication         | Code                                                         |
+| ------------------------------ | ---- | ------------------- | ------------------------------------------------------------ |
+| WaterGAN                       | 2017 | RA-L                | [Tensorflow](https://github.com/kskin/WaterGAN)              |
+| UGAN                           | 2018 | ICRA                | [Tensorflow](https://github.com/cameronfabbri/Underwater-Color-Correction)\|[Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
+| WAug Encoder-Decoder           | 2019 | CVPR Workshop       | [Pytorch](https://github.com/AdarshMJ/Underwater-Image-Enhancement-via-Style-Transfer) |
+| UIE-DAL                        | 2019 | CVPR Workshops      | [Pytorch](https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning) |
+| WaterNet                       | 2019 | TIP                 | [Tensorflow](https://github.com/Li-Chongyi/Water-Net_Code)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
+| GAN-RS                         | 2019 | IEEE T IND ELECTRON | [Pytorch](https://github.com/SeanChenxy/GAN_RS)              |
+| FUnIE-GAN                      | 2020 | RA-L                | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
+| SESR                           | 2020 | RSS                 | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
+| UWCNN                          | 2020 | PR                  | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
+| HybridDetectionGAN             | 2020 | TCSVT               | [Tensorflow](https://github.com/cjh666-sym/HybridDetectionGAN) |
+| cGAN                           | 2020 | SPIC                | [Tensorflow](https://github.com/JOU-UIP/Underwater-image-enhancement-based-on-conditional-generative-adversarial-network) |
+| PRWNet                         | 2021 | ICCV Workshop       | [Pytorch](https://github.com/huofushuo/PRWNet)               |
+| CWR                            | 2021 | IGARSS              | [Pytorch](https://github.com/JunlinHan/CWR)                  |
+| Shallow-UWNet                  | 2021 | AAAI                | [Pytorch](https://github.com/mkartik/Shallow-UWnet)          |
+| UColor                         | 2021 | TIP                 | [Tensorflow](https://github.com/Li-Chongyi/Ucolor)\|[Pytorch](https://github.com/CV-Reimplementation/Ucolor-Reimplementation) |
+| UIEC^2-Net                     | 2021 | SPIC                | [Pytorch](https://github.com/BIGWangYuDong/UWEnhancement)    |
+| STSC                           | 2022 | ICRA                | [Pytorch](https://github.com/wdhudiekou/STSC)                |
+| URSCT-SESR                     | 2022 | TGRS                | [Pytorch](https://github.com/TingdiRen/URSCT-SESR)           |
+| TACL                           | 2022 | TIP                 | [Pytorch](https://github.com/Jzy2017/TACL)                   |
+| TOPAL                          | 2022 | TCSVT               | [Pytorch](https://github.com/Jzy2017/TOPAL)                  |
+| SGUIE-Net                      | 2022 | TIP                 | [Pytorch](https://github.com/trentqq/SGUIE-Net_Simple)       |
+| PUIE-Net                       | 2022 | ECCV                | [Pytorch](https://github.com/zhenqifu/puie-net)              |
+| UIE-WD                         | 2022 | ICASSP              | [Pytorch](https://github.com/ZZiyin/UIE-WD_Code)             |
+| SCNet                          | 2022 | ICASSP              | [Pytorch](https://github.com/zhenqifu/SCNet)                 |
+| UHD-SFNet                      | 2022 | ACCV                | [Pytorch](https://github.com/zzr-idam/UHD-Underwater-Image-Enhancement) |
+| AutoEnhancer                   | 2022 | ACCV                | [Pytorch](https://github.com/piggy2009/autoEnhancer)         |
+| ADMNNet                        | 2022 | KBS                 | [Pytorch](https://github.com/xhyan006/ADMNNet)               |
+| LANet                          | 2022 | RA-L                | [Pytorch](https://github.com/LiuShiBen/LANet)                |
+| SIBM                           | 2022 | MM                  | [Pytorch](https://github.com/IntegralCoCo/SIBM)              |
+| MBANet                         | 2022 | PR                  | [Pytorch](https://github.com/lizexuan1/MBANet)               |
+| USUIR                          | 2022 | AAAI                | [Pytorch](https://github.com/zhenqifu/USUIR)                 |
+| UIR-Net                        | 2022 | Remote Sensing      | [Pytorch](https://github.com/zhangbaijin/UIR-Net)            |
+| UDAformer                      | 2022 | C & G               | [Pytorch](https://github.com/ShenZhen0502/UDAformer)         |
+| PHYSICAL IMAGE FORMATION MODEL | 2022 | ICASSP              | [Pytorch](https://github.com/chaishu321/UNSUPERVISED-AND-UNTRAINED-UNDERWATER-IMAGE-RESTORATION-BASED-ON-PHYSICAL-IMAGE-FORMATION-MODEL) |
+| U-Shape Transformer            | 2023 | TIP                 | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
+| PUGAN                          | 2023 | TIP                 | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
+| Semi-UIR                       | 2023 | CVPR                | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
+| SyreaNet                       | 2023 | ICRA                | [Pytorch](https://github.com/RockWenJJ/SyreaNet)             |
+| Five A+ Network                | 2023 | BMVC                | [Pytorch](https://github.com/Owen718/FiveAPlus-Network)      |
+| UIALN                          | 2023 | TCSVT               | [Pytorch](https://github.com/kevendai/UIALN-Reproduction-Experiment) |
+| Deep WaveNet                   | 2023 | TOMM                | [Pytorch](https://github.com/pksvision/Deep-WaveNet-Underwater-Image-Restoration) |
+| DM                             | 2023 | MM                  | [Pytorch](https://github.com/piggy2009/DM_underwater)        |
+| P2CNet                         | 2023 | TCSVT               | [Pytorch](https://github.com/Ray2OUC/P2CNet)                 |
+| TCTL-Net                       | 2023 | TCSVT               | [Pytorch](https://github.com/trentqq/TCTL-Net)               |
+| CLUIE-Net                      | 2023 | TCSVT               | [Pytorch](https://github.com/justwj/CLUIE-Net)               |
+| HAAM-GAN                       | 2023 | EAAI                | [Pytorch](https://github.com/zhoujingchun03/HAAM-GAN)        |
+| ASNet+ANNet                    | 2023 | EAAI                | [Pytorch](https://github.com/cwoop92/Underwater-image-enhancement-using-adaptive-standardization-and-normalization-networks) |
+| LiteEnhanceNet                 | 2023 | EAAI                | [Pytorch](https://github.com/zhangsong1213/LiteEnhanceNet)   |
+| GUPDM                          | 2023 | MM                  | [Pytorch](https://github.com/shiningZZ/GUPDM)                |
+| Boths                          | 2023 | GRSL                | [Pytorch](https://github.com/perseveranceLX/BOths)           |
+| TUDA                           | 2023 | TIP                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |
+| Spectroformer                  | 2023 | WACV                | [Pytorch](https://github.com/Mdraqibkhan/Spectroformer)      |
+| RAUNE-Net                      | 2023 | IFTC                | [Pytorch](https://github.com/fansuregrin/RAUNE-Net)          |
+| Joint_ID                       | 2023 | IEEE Sensors        | [Pytorch](https://github.com/sparolab/Joint_ID)              |
+| UIEPTA                         | 2023 | IJCNN               | [Pytorch](https://github.com/Mdraqibkhan/UIEPTA)             |
+| NU2Net                         | 2023 | AAAI                | [Pytorch](https://github.com/RQ-Wu/UnderwaterRanker)         |
+| ACU-Net                        | 2024 | SIVP                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |
+| UWFormer                       | 2024 | IJCNN               | [Pytorch](https://github.com/leiyingtie/UWFormer)            |
+| DICAM                          | 2024 | Neurocomputing      | [Pytorch](https://github.com/hfarhaditolie/DICAM)            |
+| INSPIRATION                    | 2024 | EAAI                | [Pytorch](https://gitee.com/wanghaoupc/uie_inspiration)      |
+| AoSRNet                        | 2024 | KBS                 | [Pytorch](https://github.com/LouisYuxuLu/AoSRNet)            |
+| IACC                           | 2024 | TGRS                | [Pytorch](https://github.com/zhoujingchun03/IACC)            |
+| PDS                            | 2024 | TGRS                | https://github.com/polwork/PDS                               |
+| TFUIE                          | 2024 | TGRS                | [Pytorch](https://github.com/gemyumeng/TFUIE)                |
+| DiffWater                      | 2024 | JSTAR               | [Pytorch](https://github.com/Guan-MS/DiffWater)              |
+| SFGNet                         | 2024 | ICASSP              | [Pytorch](https://github.com/zhihefang/SFGNet)               |
+| WsUIDNet                       | 2024 | TGRS                | [Pytorch](https://github.com/Wangxy97/WsUID-Net_code)        |
+| CCMSRNet                       | 2024 | TGRS                | [Pytorch](https://github.com/INDTLab/CCMSRNet)               |
 
 ## Metric
 

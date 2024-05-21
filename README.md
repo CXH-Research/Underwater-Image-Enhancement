@@ -110,7 +110,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | CLUIE-Net                      | 2023 | TCSVT                               | [Pytorch](https://github.com/justwj/CLUIE-Net)               |
 | HAAM-GAN                       | 2023 | EAAI                                | [Pytorch](https://github.com/zhoujingchun03/HAAM-GAN)        |
 | ASNet+ANNet                    | 2023 | EAAI                                | [Pytorch](https://github.com/cwoop92/Underwater-image-enhancement-using-adaptive-standardization-and-normalization-networks) |
-| LiteEnhanceNet                 | 2023 | EAAI                                | [Pytorch](https://github.com/zhangsong1213/LiteEnhanceNet)   |
+| LiteEnhanceNet                 | 2023 | ESWA                                | [Pytorch](https://github.com/zhangsong1213/LiteEnhanceNet)   |
 | GUPDM                          | 2023 | MM                                  | [Pytorch](https://github.com/shiningZZ/GUPDM)                |
 | Boths                          | 2023 | GRSL                                | [Pytorch](https://github.com/perseveranceLX/BOths)           |
 | TUDA                           | 2023 | TIP                                 | [Pytorch](https://github.com/zyWang-Power/TUDA)              |

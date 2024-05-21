@@ -17,45 +17,46 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 
 ### Traditional
 
-| Title                                                        | Year | Publication      | Code                                                         |
-| ------------------------------------------------------------ | ---- | ---------------- | ------------------------------------------------------------ |
-| Enhancing the low quality images using Unsupervised Colour Correction Method | 2010 | SMC              | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
-| Underwater Image Enhancement by Wavelength Compensation and Dehazing | 2011 | TIP              | [MATLAB](https://github.com/mohitkumarahuja/Underwater-Image-Enhancement-by-Wavelength-Compensation-and-Dehazing) |
-| Enhancing underwater images and videos by fusion             | 2012 | CVPR             | [MATLAB](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
-| Transmission Estimation in Underwater Single Images          | 2013 | ICCV Workshop    | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
-| Single underwater image enhancement using depth estimation based on blurriness | 2015 | ICIP             | [MATLAB](https://github.com/ytpeng-aimlab/Single-Underwater-Image-Enhancement-Using-Depth-Estimation-based-on-Blurriness) |
-| Automatic Red-Channel Underwater Image Restoration           | 2015 | JVCIR            | [Python](https://github.com/agaldran/UnderWater)             |
-| Underwater image enhancement by dehazing with minimum information loss and histogram distribution prior | 2016 | TIP              | [MATLAB](https://github.com/Li-Chongyi/TIP2016-code)         |
-| Single underwater image restoration by blue-green channels dehazing and red channel correction | 2016 | ICASSP           | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
-| Underwater Image Restoration Based on Image Blurriness and Light Absorption | 2017 | TIP              | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
-| Diving into Haze-Lines: Color Restoration of Underwater Images | 2017 | BMVC             | [MATLAB](https://github.com/danaberman/underwater-hl)        |
-| Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition | 2018 | MMM              | [Python](https://github.com/Amruth-sagar/Shallow-water-Image-Enhancement) |
-| Color Balance and Fusion for Underwater Image Enhancement    | 2018 | TIP              | [MATLAB](https://github.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-.) |
-| Enhancement of Underwater Images With Statistical Model of Background Light and Optimization of Transmission Map | 2019 | IEEE T BROADCAST | [Python](https://github.com/wangyanckxx/Enhancement-of-Underwater-Images-with-Statistical-Model-of-BL-and-Optimization-of-TM) |
-| Real-time Model-based Image Color Correction for Underwater Robots | 2019 | IROS             | [C++](https://github.com/dartmouthrobotics/underwater_color_enhance) |
-| Sea-Thru: A Method for Removing Water From Underwater Images | 2019 | CVPR             | [Python](https://github.com/hainh/sea-thru)                  |
-| Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations | 2019 | ICCV             | [MATLAB](https://github.com/jeringeo/CompressiveFlows)       |
-| Local Color Mapping combined with Color Transfer for Underwater Image Enhancement | 2019 | WACV             | [MATLAB](https://github.com/rprotasiuk/underwater_enhancement) |
-| Adaptive Enhancement of Underwater Images using Multiobjective PSO | 2019 | MTA              | [MATLAB](https://github.com/Rajni27/CIEUI)                   |
-| L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop    | [MATLAB](https://github.com/tunai/l2uwe)                     |
-| A novel dark channel prior guided variational framework for underwater image restoration | 2020 | JVCIR            | [MATLAB](https://github.com/Hou-Guojia/UTV)                  |
-| Bayesian retinex underwater image enhancement                | 2021 | EAAI             | [MATLAB](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) |
-| TEBCF: Real-World Underwater Image Texture Enhancement Model Based on Blurriness and Color Fusion | 2021 | TGRS             | [MATLAB](https://github.com/bilityniu/TEBCF_tgrs)\|[Python](https://github.com/evan-person/TEBCF_python) |
-| An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology | 2021 | TGRS             | [MATLAB](https://github.com/bilityniu/cbm_tgrs)              |
-| Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement | 2022 | TIP              | [MATLAB](https://github.com/Li-Chongyi/MMLE_code)            |
-| Underwater Image Enhancement With Hyper-Laplacian Reflectance Priors | 2022 | TIP              | [MATLAB](https://github.com/zhuangpeixian/HLRP)              |
-| A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement | 2022 | TCSVT            | [MATLAB](https://github.com/59Kkk/SPDF)                      |
-| A Variational Framework for Underwater Image Dehazing and Deblurring | 2022 | TCSVT            | [MATLAB](https://github.com/Hou-Guojia/UNTV)                 |
-| Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement | 2022 | SPL              | [MATLAB](https://github.com/Li-Chongyi/PCDE)                 |
-| Towards Underwater Image Restoration: A Physical-accurate Pipeline and a Large Scale Full-reference Benchmark | 2022 | ICME             | [Python](https://github.com/TongJiayan/MonoUIR)              |
-| Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior | 2023 | TCSVT            | [MATLAB](https://github.com/Hou-Guojia/ICSP)                 |
-| Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion | 2023 | TCSVT            | [MATLAB](https://github.com/Li-Chongyi/WWPF_code)            |
-| Underwater camera: Improving visual perception via adaptive dark pixel prior and color correction | 2023 | IJCV             | [Python](https://github.com/zhoujingchun03/ADPCC_Code)       |
-| Rank-One Prior: Real-time Scene Recovery                     | 2023 | TPAMI            | [MATLAB](https://github.com/junliumath/ROP)                  |
-| Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement | 2023 | SPL              | [MATLAB](https://github.com/Li-Chongyi/PCDE)                 |
-| Enhancing Underwater Image via Adaptive Color and Contrast Enhancement, and Denoising | 2023 | EAAI             | [MATLAB](https://github.com/Hou-Guojia/ACCE-D)               |
-| HFM: A hybrid fusion method for underwater image enhancement | 2024 | EAAI             | [MATLAB](https://github.com/An-Shunmin/HFM)                  |
-| Underwater Color Disparities: Cues for Enhancing Underwater Images Toward Natural Color Consistencies | 2024 | TCSVT            | [Python](https://gitee.com/wanghaoupc/Underwater_Color_Disparities) |
+| Title                                                        | Year | Publication                         | Code                                                         |
+| ------------------------------------------------------------ | ---- | ----------------------------------- | ------------------------------------------------------------ |
+| Enhancing the low quality images using Unsupervised Colour Correction Method | 2010 | SMC                                 | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Underwater Image Enhancement by Wavelength Compensation and Dehazing | 2011 | TIP                                 | [MATLAB](https://github.com/mohitkumarahuja/Underwater-Image-Enhancement-by-Wavelength-Compensation-and-Dehazing) |
+| Enhancing underwater images and videos by fusion             | 2012 | CVPR                                | [MATLAB](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Transmission Estimation in Underwater Single Images          | 2013 | ICCV Workshop                       | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Single underwater image enhancement using depth estimation based on blurriness | 2015 | ICIP                                | [MATLAB](https://github.com/ytpeng-aimlab/Single-Underwater-Image-Enhancement-Using-Depth-Estimation-based-on-Blurriness) |
+| Automatic Red-Channel Underwater Image Restoration           | 2015 | JVCIR                               | [Python](https://github.com/agaldran/UnderWater)             |
+| Underwater image enhancement by dehazing with minimum information loss and histogram distribution prior | 2016 | TIP                                 | [MATLAB](https://github.com/Li-Chongyi/TIP2016-code)         |
+| Single underwater image restoration by blue-green channels dehazing and red channel correction | 2016 | ICASSP                              | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Underwater Image Restoration Based on Image Blurriness and Light Absorption | 2017 | TIP                                 | [Python](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration) |
+| Diving into Haze-Lines: Color Restoration of Underwater Images | 2017 | BMVC                                | [MATLAB](https://github.com/danaberman/underwater-hl)        |
+| Shallow-Water Image Enhancement Using Relative Global Histogram Stretching Based on Adaptive Parameter Acquisition | 2018 | MMM                                 | [Python](https://github.com/Amruth-sagar/Shallow-water-Image-Enhancement) |
+| Color Balance and Fusion for Underwater Image Enhancement    | 2018 | TIP                                 | [MATLAB](https://github.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-.) |
+| Enhancement of Underwater Images With Statistical Model of Background Light and Optimization of Transmission Map | 2019 | IEEE T BROADCAST                    | [Python](https://github.com/wangyanckxx/Enhancement-of-Underwater-Images-with-Statistical-Model-of-BL-and-Optimization-of-TM) |
+| Real-time Model-based Image Color Correction for Underwater Robots | 2019 | IROS                                | [C++](https://github.com/dartmouthrobotics/underwater_color_enhance) |
+| Sea-Thru: A Method for Removing Water From Underwater Images | 2019 | CVPR                                | [Python](https://github.com/hainh/sea-thru)                  |
+| Restoration of Non-rigidly Distorted Underwater Images using a Combination of Compressive Sensing and Local Polynomial Image Representations | 2019 | ICCV                                | [MATLAB](https://github.com/jeringeo/CompressiveFlows)       |
+| Local Color Mapping combined with Color Transfer for Underwater Image Enhancement | 2019 | WACV                                | [MATLAB](https://github.com/rprotasiuk/underwater_enhancement) |
+| Adaptive Enhancement of Underwater Images using Multiobjective PSO | 2019 | MTA                                 | [MATLAB](https://github.com/Rajni27/CIEUI)                   |
+| L^2UWE: A Framework for the Efficient Enhancement of Low-Light Underwater Images Using Local Contrast and Multi-Scale Fusion | 2020 | CVPR Workshop                       | [MATLAB](https://github.com/tunai/l2uwe)                     |
+| A novel dark channel prior guided variational framework for underwater image restoration | 2020 | JVCIR                               | [MATLAB](https://github.com/Hou-Guojia/UTV)                  |
+| Bayesian retinex underwater image enhancement                | 2021 | EAAI                                | [MATLAB](https://github.com/zhuangpeixian/Bayesian-Retinex-Underwater-Enhancement) |
+| TEBCF: Real-World Underwater Image Texture Enhancement Model Based on Blurriness and Color Fusion | 2021 | TGRS                                | [MATLAB](https://github.com/bilityniu/TEBCF_tgrs)\|[Python](https://github.com/evan-person/TEBCF_python) |
+| An Underwater Image Vision Enhancement Algorithm Based on Contour Bougie Morphology | 2021 | TGRS                                | [MATLAB](https://github.com/bilityniu/cbm_tgrs)              |
+| Underwater Image Enhancement by Attenuated Color Channel Correction and Detail Preserved Contrast Enhancement | 2022 | IEEE Journal of Oceanic Engineering | [MATLAB](https://github.com/Li-Chongyi/JOE2021_ACDC)         |
+| Underwater Image Enhancement via Minimal Color Loss and Locally Adaptive Contrast Enhancement | 2022 | TIP                                 | [MATLAB](https://github.com/Li-Chongyi/MMLE_code)            |
+| Underwater Image Enhancement With Hyper-Laplacian Reflectance Priors | 2022 | TIP                                 | [MATLAB](https://github.com/zhuangpeixian/HLRP)              |
+| A Perception-Aware Decomposition and Fusion Framework for Underwater Image Enhancement | 2022 | TCSVT                               | [MATLAB](https://github.com/59Kkk/SPDF)                      |
+| A Variational Framework for Underwater Image Dehazing and Deblurring | 2022 | TCSVT                               | [MATLAB](https://github.com/Hou-Guojia/UNTV)                 |
+| Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement | 2022 | SPL                                 | [MATLAB](https://github.com/Li-Chongyi/PCDE)                 |
+| Towards Underwater Image Restoration: A Physical-accurate Pipeline and a Large Scale Full-reference Benchmark | 2022 | ICME                                | [Python](https://github.com/TongJiayan/MonoUIR)              |
+| Non-uniform Illumination Underwater Image Restoration via Illumination Channel Sparsity Prior | 2023 | TCSVT                               | [MATLAB](https://github.com/Hou-Guojia/ICSP)                 |
+| Underwater Image Enhancement via Weighted Wavelet Visual Perception Fusion | 2023 | TCSVT                               | [MATLAB](https://github.com/Li-Chongyi/WWPF_code)            |
+| Underwater camera: Improving visual perception via adaptive dark pixel prior and color correction | 2023 | IJCV                                | [Python](https://github.com/zhoujingchun03/ADPCC_Code)       |
+| Rank-One Prior: Real-time Scene Recovery                     | 2023 | TPAMI                               | [MATLAB](https://github.com/junliumath/ROP)                  |
+| Underwater Image Enhancement via Piecewise Color Correction and Dual Prior Optimized Contrast Enhancement | 2023 | SPL                                 | [MATLAB](https://github.com/Li-Chongyi/PCDE)                 |
+| Enhancing Underwater Image via Adaptive Color and Contrast Enhancement, and Denoising | 2023 | EAAI                                | [MATLAB](https://github.com/Hou-Guojia/ACCE-D)               |
+| HFM: A hybrid fusion method for underwater image enhancement | 2024 | EAAI                                | [MATLAB](https://github.com/An-Shunmin/HFM)                  |
+| Underwater Color Disparities: Cues for Enhancing Underwater Images Toward Natural Color Consistencies | 2024 | TCSVT                               | [Python](https://gitee.com/wanghaoupc/Underwater_Color_Disparities) |
 
 ### Learning
 

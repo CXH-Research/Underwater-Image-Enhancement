@@ -57,6 +57,8 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Enhancing Underwater Image via Adaptive Color and Contrast Enhancement, and Denoising | 2023 | EAAI                                | [MATLAB](https://github.com/Hou-Guojia/ACCE-D)               |
 | HFM: A hybrid fusion method for underwater image enhancement | 2024 | EAAI                                | [MATLAB](https://github.com/An-Shunmin/HFM)                  |
 | Underwater Color Disparities: Cues for Enhancing Underwater Images Toward Natural Color Consistencies | 2024 | TCSVT                               | [Python](https://gitee.com/wanghaoupc/Underwater_Color_Disparities) |
+| Underwater Image Enhancement via Adaptive Color Correction and Stationary Wavelet Detail Enhancement | 2024 | Access                              | [MATLAB](https://github.com/Zhenbo-Wang/Adaptive-Color-Correction-and-Stationary-Wavelet-Detail-Enhancement) |
+| CBLA: Color-Balanced Locally Adjustable Underwater Image Enhancement | 2024 | TIM                                 | [MATLAB](https://github.com/Severus-Matthew/CBLA)            |
 
 ### Learning
 
@@ -131,6 +133,9 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | SFGNet                         | 2024 | ICASSP                              | [Pytorch](https://github.com/zhihefang/SFGNet)               |
 | WsUIDNet                       | 2024 | TGRS                                | [Pytorch](https://github.com/Wangxy97/WsUID-Net_code)        |
 | CCMSRNet                       | 2024 | TGRS                                | [Pytorch](https://github.com/INDTLab/CCMSRNet)               |
+| SimUESR                        | 2024 | Neurocomputing                      | [Pytorch](https://github.com/lpm1001/SimUESR)                |
+| MDP                            | 2024 | IEEE Journal of Oceanic Engineering | [Tensorflow](https://gitee.com/sunshixin_upc/underwater-image-enhancement-with-reinforcement-learning) |
+| CECF                           | 2024 | AAAI                                | [Pytorch](https://github.com/Xiaofeng-life/CECF)             |
 
 ## Metric
 

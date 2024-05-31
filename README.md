@@ -70,6 +70,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | UIE-DAL                        | 2019 | CVPR Workshops                      | [Pytorch](https://github.com/VITA-Group/All-In-One-Underwater-Image-Enhancement-using-Domain-Adversarial-Learning) |
 | WaterNet                       | 2019 | TIP                                 | [Tensorflow](https://github.com/Li-Chongyi/Water-Net_Code)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
 | GAN-RS                         | 2019 | IEEE T IND ELECTRON                 | [Pytorch](https://github.com/SeanChenxy/GAN_RS)              |
+| UResnet                        | 2019 | Access                              | [Pytorch](https://github.com/OucMLLab-LiuPeng/UResnet)       |
 | FUnIE-GAN                      | 2020 | RA-L                                | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
 | SESR                           | 2020 | RSS                                 | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
 | UWCNN                          | 2020 | PR                                  | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
@@ -99,6 +100,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | UIR-Net                        | 2022 | Remote Sensing                      | [Pytorch](https://github.com/zhangbaijin/UIR-Net)            |
 | UDAformer                      | 2022 | C & G                               | [Pytorch](https://github.com/ShenZhen0502/UDAformer)         |
 | PHYSICAL IMAGE FORMATION MODEL | 2022 | ICASSP                              | [Pytorch](https://github.com/chaishu321/UNSUPERVISED-AND-UNTRAINED-UNDERWATER-IMAGE-RESTORATION-BASED-ON-PHYSICAL-IMAGE-FORMATION-MODEL) |
+| UIESS                          | 2022 | Access                              | [Pytorch](https://github.com/fordevoted/UIESS)               |
 | U-Shape Transformer            | 2023 | TIP                                 | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
 | PUGAN                          | 2023 | TIP                                 | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR                       | 2023 | CVPR                                | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |
@@ -136,6 +138,8 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | SimUESR                        | 2024 | Neurocomputing                      | [Pytorch](https://github.com/lpm1001/SimUESR)                |
 | MDP                            | 2024 | IEEE Journal of Oceanic Engineering | [Tensorflow](https://gitee.com/sunshixin_upc/underwater-image-enhancement-with-reinforcement-learning) |
 | CECF                           | 2024 | AAAI                                | [Pytorch](https://github.com/Xiaofeng-life/CECF)             |
+| DGD-cGAN                       | 2024 | PR                                  | [Pytorch](https://github.com/SalPGS/DGD-cGAN)                |
+| HCLR-Net                       | 2024 | IJCV                                | [Pytorch](https://github.com/zhoujingchun03/HCLR-Net)        |
 
 ## Metric
 

@@ -140,6 +140,9 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | CECF                           | 2024 | AAAI                                | [Pytorch](https://github.com/Xiaofeng-life/CECF)             |
 | DGD-cGAN                       | 2024 | PR                                  | [Pytorch](https://github.com/SalPGS/DGD-cGAN)                |
 | HCLR-Net                       | 2024 | IJCV                                | [Pytorch](https://github.com/zhoujingchun03/HCLR-Net)        |
+| WPFNet                         | 2024 | KBS                                 | [Pytorch](https://github.com/LiuShiBen/WPFNet)               |
+| GC-UIE                         | 2024 | KBS                                 | [Pytorch](https://github.com/xzx11/GC-UIE)                   |
+| DDformer                       | 2024 | KBS                                 | [Pytorch](https://github.com/ZhiGao-hfuu/DDformer)           |
 
 ## Metric
 

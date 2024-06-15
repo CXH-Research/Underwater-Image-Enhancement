@@ -59,6 +59,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Underwater Color Disparities: Cues for Enhancing Underwater Images Toward Natural Color Consistencies | 2024 | TCSVT                               | [Python](https://gitee.com/wanghaoupc/Underwater_Color_Disparities) |
 | Underwater Image Enhancement via Adaptive Color Correction and Stationary Wavelet Detail Enhancement | 2024 | Access                              | [MATLAB](https://github.com/Zhenbo-Wang/Adaptive-Color-Correction-and-Stationary-Wavelet-Detail-Enhancement) |
 | CBLA: Color-Balanced Locally Adjustable Underwater Image Enhancement | 2024 | TIM                                 | [MATLAB](https://github.com/Severus-Matthew/CBLA)            |
+| Polarization-Driven Solution for Mitigating Scattering and Uneven Illumination in Underwater Imagery | 2024 | TGRS                                | [MATLAB](https://github.com/ShenLH93/PDS)                    |
 
 ### Learning
 
@@ -129,7 +130,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | INSPIRATION                    | 2024 | EAAI                                | [Pytorch](https://gitee.com/wanghaoupc/uie_inspiration)      |
 | AoSRNet                        | 2024 | KBS                                 | [Pytorch](https://github.com/LouisYuxuLu/AoSRNet)            |
 | IACC                           | 2024 | TGRS                                | [Pytorch](https://github.com/zhoujingchun03/IACC)            |
-| PDS                            | 2024 | TGRS                                | https://github.com/polwork/PDS                               |
+|                                |      |                                     |                                                              |
 | TFUIE                          | 2024 | TGRS                                | [Pytorch](https://github.com/gemyumeng/TFUIE)                |
 | DiffWater                      | 2024 | JSTAR                               | [Pytorch](https://github.com/Guan-MS/DiffWater)              |
 | SFGNet                         | 2024 | ICASSP                              | [Pytorch](https://github.com/zhihefang/SFGNet)               |

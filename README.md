@@ -3,7 +3,7 @@ Summary of Publicly Available Underwater Image Enhancement Method
 
 **Raise Issue or PR to add more**
 
-Recommend [Awesome_UIE](https://github.com/fansuregrin/Awesome-UIE) for more UIE methods and papers.
+Recommend [Awesome_UIE](https://github.com/fansuregrin/Awesome-UIE) [UIE](https://github.com/YuZhao1999/UIE) for more UIE methods and papers.
 
 ## Dataset
 
@@ -72,6 +72,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | WaterNet                       | 2019 | TIP                                 | [Tensorflow](https://github.com/Li-Chongyi/Water-Net_Code)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
 | GAN-RS                         | 2019 | IEEE T IND ELECTRON                 | [Pytorch](https://github.com/SeanChenxy/GAN_RS)              |
 | UResnet                        | 2019 | Access                              | [Pytorch](https://github.com/OucMLLab-LiuPeng/UResnet)       |
+| cGAN                           | 2019 | SPIC                                | [Tensorflow](https://github.com/JOU-UIP/Underwater-image-enhancement-based-on-conditional-generative-adversarial-network) |
 | FUnIE-GAN                      | 2020 | RA-L                                | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
 | SESR                           | 2020 | RSS                                 | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
 | UWCNN                          | 2020 | PR                                  | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |
@@ -124,13 +125,13 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Joint_ID                       | 2023 | IEEE Sensors                        | [Pytorch](https://github.com/sparolab/Joint_ID)              |
 | UIEPTA                         | 2023 | IJCNN                               | [Pytorch](https://github.com/Mdraqibkhan/UIEPTA)             |
 | NU2Net                         | 2023 | AAAI                                | [Pytorch](https://github.com/RQ-Wu/UnderwaterRanker)         |
+| DAUT                           | 2023 | ICIP                                | [Pytorch](https://github.com/MBadran2000/Depth-Aware-U-shape-Transformer) |
 | ACU-Net                        | 2024 | SIVP                                | [Pytorch](https://github.com/666ShuqiWang/Underwater-Image-Enhancement-by-Combining-Multi-Attention-with-Recurrent-Residual-Convolutional-UNet) |
 | UWFormer                       | 2024 | IJCNN                               | [Pytorch](https://github.com/leiyingtie/UWFormer)            |
 | DICAM                          | 2024 | Neurocomputing                      | [Pytorch](https://github.com/hfarhaditolie/DICAM)            |
 | INSPIRATION                    | 2024 | EAAI                                | [Pytorch](https://gitee.com/wanghaoupc/uie_inspiration)      |
 | AoSRNet                        | 2024 | KBS                                 | [Pytorch](https://github.com/LouisYuxuLu/AoSRNet)            |
 | IACC                           | 2024 | TGRS                                | [Pytorch](https://github.com/zhoujingchun03/IACC)            |
-|                                |      |                                     |                                                              |
 | TFUIE                          | 2024 | TGRS                                | [Pytorch](https://github.com/gemyumeng/TFUIE)                |
 | DiffWater                      | 2024 | JSTAR                               | [Pytorch](https://github.com/Guan-MS/DiffWater)              |
 | SFGNet                         | 2024 | ICASSP                              | [Pytorch](https://github.com/zhihefang/SFGNet)               |
@@ -144,6 +145,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | WPFNet                         | 2024 | KBS                                 | [Pytorch](https://github.com/LiuShiBen/WPFNet)               |
 | GC-UIE                         | 2024 | KBS                                 | [Pytorch](https://github.com/xzx11/GC-UIE)                   |
 | DDformer                       | 2024 | KBS                                 | [Pytorch](https://github.com/ZhiGao-hfuu/DDformer)           |
+| DGD-cGAN                       | 2024 | PR                                  | [Pytorch](https://github.com/SalPGS/DGD-cGAN)                |
 
 ## Metric
 

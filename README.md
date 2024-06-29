@@ -103,6 +103,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | UDAformer                      | 2022 | C & G                               | [Pytorch](https://github.com/ShenZhen0502/UDAformer)         |
 | PHYSICAL IMAGE FORMATION MODEL | 2022 | ICASSP                              | [Pytorch](https://github.com/chaishu321/UNSUPERVISED-AND-UNTRAINED-UNDERWATER-IMAGE-RESTORATION-BASED-ON-PHYSICAL-IMAGE-FORMATION-MODEL) |
 | UIESS                          | 2022 | Access                              | [Pytorch](https://github.com/fordevoted/UIESS)               |
+| GSL                            | 2022 | TVC                                 | [Pytorch](https://github.com/CV-Reimplementation/Global-structure-guided-learning-framework-for-underwater-image-enhancement) |
 | U-Shape Transformer            | 2023 | TIP                                 | [Pytorch](https://github.com/LintaoPeng/U-shape_Transformer_for_Underwater_Image_Enhancement) |
 | PUGAN                          | 2023 | TIP                                 | [Pytorch](https://github.com/rmcong/PUGAN_TIP2023)           |
 | Semi-UIR                       | 2023 | CVPR                                | [Pytorch](https://github.com/Huang-ShiRui/Semi-UIR)          |

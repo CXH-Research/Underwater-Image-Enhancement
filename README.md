@@ -13,6 +13,8 @@ Recommend [Awesome_UIE](https://github.com/fansuregrin/Awesome-UIE) [UIE](https:
 
 Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorlabeilat/seathru-dataset)
 
+[UVEB](https://github.com/yzbouc/UVEB)
+
 ## Method
 
 ### Traditional
@@ -147,6 +149,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | GC-UIE                         | 2024 | KBS                                 | [Pytorch](https://github.com/xzx11/GC-UIE)                   |
 | DDformer                       | 2024 | KBS                                 | [Pytorch](https://github.com/ZhiGao-hfuu/DDformer)           |
 | DGD-cGAN                       | 2024 | PR                                  | [Pytorch](https://github.com/SalPGS/DGD-cGAN)                |
+| UVE-Net                        | 2024 | CVPR                                | [Pytorch](https://github.com/yzbouc/UVEB)                    |
 
 ## Metric
 

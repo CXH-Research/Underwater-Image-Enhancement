@@ -150,6 +150,11 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | DDformer                       | 2024 | KBS                                 | [Pytorch](https://github.com/ZhiGao-hfuu/DDformer)           |
 | DGD-cGAN                       | 2024 | PR                                  | [Pytorch](https://github.com/SalPGS/DGD-cGAN)                |
 | UVE-Net                        | 2024 | CVPR                                | [Pytorch](https://github.com/yzbouc/UVEB)                    |
+| UIE-UnFold                     | 2024 | DSAA                                | [Pytorch](https://github.com/CXH-Research/UIE-UnFold)        |
+| CTM                            | 2024 | Applied Soft Computing              | [Pytorch](https://github.com/WindySprint/CTM)                |
+| DIMN                           | 2024 | Scientific Reports                  | [Pytorch](https://github.com/wwaannggllii/DIMN)              |
+| USIS-SAM                       | 2024 | ICML                                | [Pytorch](https://github.com/LiamLian0727/USIS10K)           |
+| DedustGAN                      | 2024 | ESWA                                | [Pytorch](https://github.com/MXL696/DedustGAN)               |
 
 ## Metric
 

@@ -155,6 +155,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | DIMN                           | 2024 | Scientific Reports                  | [Pytorch](https://github.com/wwaannggllii/DIMN)              |
 | USIS-SAM                       | 2024 | ICML                                | [Pytorch](https://github.com/LiamLian0727/USIS10K)           |
 | DedustGAN                      | 2024 | ESWA                                | [Pytorch](https://github.com/MXL696/DedustGAN)               |
+| Osmosis                        | 2024 | ECCV                                | [Pytorch](https://github.com/osmosis-diffusion/osmosis-diffusion-code) |
 
 ## Metric
 

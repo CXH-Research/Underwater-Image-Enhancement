@@ -75,6 +75,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | GAN-RS                         | 2019 | IEEE T IND ELECTRON                 | [Pytorch](https://github.com/SeanChenxy/GAN_RS)              |
 | UResnet                        | 2019 | Access                              | [Pytorch](https://github.com/OucMLLab-LiuPeng/UResnet)       |
 | cGAN                           | 2019 | SPIC                                | [Tensorflow](https://github.com/JOU-UIP/Underwater-image-enhancement-based-on-conditional-generative-adversarial-network) |
+| UW-Net                         | 2019 | ICIP                                | [Tensorflow](https://github.com/honeygupta/UW-Net)           |
 | FUnIE-GAN                      | 2020 | RA-L                                | [Tensorflow & Pytorch](https://github.com/xahidbuffon/FUnIE-GAN) |
 | SESR                           | 2020 | RSS                                 | [Tensorflow](https://github.com/xahidbuffon/Deep_SESR)       |
 | UWCNN                          | 2020 | PR                                  | [Tensorflow](https://github.com/saeed-anwar/UWCNN)\|[Pytorch](https://github.com/BIGWangYuDong/UWEnhancement) |

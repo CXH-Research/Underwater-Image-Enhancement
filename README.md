@@ -164,7 +164,9 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | DedustGAN                      | 2024 | ESWA                                | [Pytorch](https://github.com/MXL696/DedustGAN)               |
 | Osmosis                        | 2024 | ECCV                                | [Pytorch](https://github.com/osmosis-diffusion/osmosis-diffusion-code) |
 | UIR-PolyKernel                 | 2024 | ICASSP                              | [Pytorch](https://github.com/CXH-Research/UIR-PolyKernel)    |
+| CE-VAE                         | 2024 | WACV                                | [Pytorch](https://github.com/iN1k1/ce-vae-underwater-image-enhancement) |
 | GuidedHybSensUIR               | 2025 | TCSVT                               | [Pytorch](https://github.com/CXH-Research/GuidedHybSensUIR)  |
+| HUPE                           | 2025 | IJCV                                | [Pytorch](https://github.com/ZengxiZhang/HUPE)               |
 
 ## Metric
 

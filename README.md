@@ -17,9 +17,11 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 
 [DRUVA](https://github.com/nishavarghese15/DRUVA)
 
+[AUIED3K](https://sites.google.com/iiita.ac.in/navjotsingh/research/datasets/auied3k)
+
 ## Benchmark
 
-[Benchm](https://github.com/CXH-Research/GuidedHybSensUIR)
+[Benchmark](https://github.com/CXH-Research/GuidedHybSensUIR)
 
 ## Method
 
@@ -170,6 +172,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | HUPE                           | 2025 | IJCV                                | [Pytorch](https://github.com/ZengxiZhang/HUPE)               |
 | Phaseformer                    | 2025 | WACV                                | [Pytorch](https://github.com/Mdraqibkhan/Phaseformer)        |
 | Udnet                          | 2025 | EAAI                                | [Pytorch](https://github.com/alzayats/UDnet)                 |
+|                                |      |                                     |                                                              |
 
 ## Metric
 

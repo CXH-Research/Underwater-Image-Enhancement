@@ -172,7 +172,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | HUPE                           | 2025 | IJCV                                | [Pytorch](https://github.com/ZengxiZhang/HUPE)               |
 | Phaseformer                    | 2025 | WACV                                | [Pytorch](https://github.com/Mdraqibkhan/Phaseformer)        |
 | Udnet                          | 2025 | EAAI                                | [Pytorch](https://github.com/alzayats/UDnet)                 |
-|                                |      |                                     |                                                              |
+| CCL-Net                        | 2025 | TMM                                 | [Pytorch](https://github.com/lewis081/ccl-net)               |
 
 ## Metric
 

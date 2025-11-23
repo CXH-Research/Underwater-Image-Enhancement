@@ -180,6 +180,7 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | FDCE-Net                       | 2025 | TCSVT                               | [Pytorch](https://github.com/Alexande-rChan/FDCE-Net)        |
 | CDF-UIE                        | 2025 | TGRS                                | [Pytorch](https://github.com/hpzhan66/CDF-UIE)               |
 | AquaClarity                    | 2025 | TCE                                 | [Pytorch](https://github.com/CXH-Research/Aquaclarity)       |
+| WWE-UIE                        | 2026 | WACV                                | [Pytorch](https://github.com/chingheng0808/WWE-UIE)          |
 
 ## Metric
 

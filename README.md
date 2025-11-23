@@ -167,12 +167,19 @@ Sea-thru can be downloaded from [Kaggle](https://www.kaggle.com/datasets/colorla
 | Osmosis                        | 2024 | ECCV                                | [Pytorch](https://github.com/osmosis-diffusion/osmosis-diffusion-code) |
 | UIR-PolyKernel                 | 2024 | ICASSP                              | [Pytorch](https://github.com/CXH-Research/UIR-PolyKernel)    |
 | CE-VAE                         | 2024 | WACV                                | [Pytorch](https://github.com/iN1k1/ce-vae-underwater-image-enhancement) |
-| PixelMamba                     | 2024 | ACCV                                | [Pytorch](https://github.com/weitunglin/pixmamba)            |
+| PixMamba                       | 2024 | ACCV                                | [Pytorch](https://github.com/weitunglin/pixmamba)            |
+| SMDR-IS                        | 2024 | AAAI                                | [Pytorch](https://github.com/zhoujingchun03/SMDR-IS)         |
+| Histoformer                    | 2024 | IEEE Journal of Oceanic Engineering | [Pytorch](https://github.com/ytpeng-aimlab/Histoformer)      |
 | GuidedHybSensUIR               | 2025 | TCSVT                               | [Pytorch](https://github.com/CXH-Research/GuidedHybSensUIR)  |
 | HUPE                           | 2025 | IJCV                                | [Pytorch](https://github.com/ZengxiZhang/HUPE)               |
 | Phaseformer                    | 2025 | WACV                                | [Pytorch](https://github.com/Mdraqibkhan/Phaseformer)        |
 | Udnet                          | 2025 | EAAI                                | [Pytorch](https://github.com/alzayats/UDnet)                 |
 | CCL-Net                        | 2025 | TMM                                 | [Pytorch](https://github.com/lewis081/ccl-net)               |
+| CLIP-UIE                       | 2025 | PR                                  | [Pytorch](https://github.com/OUCVisionGroup/CLIP-UIE)        |
+| MJPNet                         | 2025 | TCSVT                               | [Pytorch](https://github.com/JunyuFan/MJPNet)                |
+| FDCE-Net                       | 2025 | TCSVT                               | [Pytorch](https://github.com/Alexande-rChan/FDCE-Net)        |
+| CDF-UIE                        | 2025 | TGRS                                | [Pytorch](https://github.com/hpzhan66/CDF-UIE)               |
+| AquaClarity                    | 2025 | TCE                                 | [Pytorch](https://github.com/CXH-Research/Aquaclarity)       |
 
 ## Metric
 
